@@ -1,0 +1,8 @@
+modules/
+jumake_build/
+build/
+compile_commands.json
+.jumake
+.idea
+cmake-build-run
+.DS_Store
